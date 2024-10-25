@@ -1,5 +1,5 @@
 - # 💫 About Me:
--👋 Hi, I’m @Sjos21<br>- 👀 I’m interested in developing real world projects and interesting playable games.<br>- 🌱 Currently focusing on webd and dsa. ;)<br>- 😄 Pronouns: He/Him<br>- 
+-👋 Hi, I’m @Sjos21<br>- 👀Interested in developing real world projects and interesting "Catchy" games.<br>- 🌱 Currently focusing on webd and dsa. ;)<br>- 😄 Pronouns: He/Him<br>- 
 
 
 ## 🌐 Socials:
