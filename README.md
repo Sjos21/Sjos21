@@ -1,5 +1,5 @@
 - # 💫 About Me:
--👋 Hi, I’m @Sjos21<br>- 👀 I’m interested in developing real world projects and interesting playable games.<br>- 🌱 I’m currently learning django rest framework and node.js as backend technologies.<br>- 😄 Pronouns: He/Him<br>- ⚡ Fun fact: Whoever sees my profile, this means you were inquisite in knowing about me ;).
+-👋 Hi, I’m @Sjos21<br>- 👀 I’m interested in developing real world projects and interesting playable games.<br>- 🌱 Currently focusing on webd and dsa. ;)<br>- 😄 Pronouns: He/Him<br>- 
 
 
 ## 🌐 Socials:
